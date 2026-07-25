@@ -1,0 +1,10 @@
+id: P31-C
+repository: aci-gt-p31-control
+visibility: public
+stage: P3
+rule: P3.1
+kind: control
+atomic_variable: "source 固定为受保护 base 内容"
+expected_status: NOT_APPLICABLE
+setup: AUTO_FILES
+configuration_state: COMPLETE
